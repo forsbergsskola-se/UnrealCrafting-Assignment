@@ -41,7 +41,7 @@ https://www.loom.com/share/e9745c4edc9e48fca6b4f4794d775d82
 
 Note: 
 - Used structures and enums with Blueprint instead of PDAs
-- Commonly used: Interfaces, Components, Enums, Structures, BP Parent/Child inheritence, Maps and keys functions, a lot of events, function inheritence
+- Commonly used: Interfaces, Components, Enums, Structures, BP Parent/Child inheritence, Maps and keys functions, a lot of events, function inheritence, existing accessibilities in Unreal (like the rotation movement component for the 3D assets)
 - Widget blueptint is: One main WBP and sub categories are widgets also attached to the WBP Main
 - Used Item parent to create Item child
 - Packs used:
