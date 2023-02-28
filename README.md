@@ -27,13 +27,17 @@ https://www.loom.com/share/e9745c4edc9e48fca6b4f4794d775d82
 
 
 ## Instructions:
-- Press E: Collect
 - Press Tab: Open/Close Inventory
+- Spacebar: Jump
+- Move: QSWD
+- Camera movement: Mouse
 - Left click on inventory item: Craft
+- Press E: Collect item
 - Divided into items to collect(logs, empty flask, plant, etc) and craftable items (healing potion, table, etc)
 - Recepies made: 
   - Healing Potion: 4 plants, 1 Empty flask
   - Table: 3 logs, 1 hammer
+- Health cheat code: `l` to increase health+30, `k` to decrease health-30
 
 Note: 
 - Used structures and enums with Blueprint instead of PDAs
@@ -61,7 +65,7 @@ Done with help in bugs:
 - Last 2 days Bugs fixes were in help of Toofan
 
 Not done (Stretch goal etc..)
-- Inventory drop and place
+- Inventory drop and place assets back to world
 - Building system (like survival games)
 
 Note: Not aiming for full grade at this stage of the assignment delay, but simply aiming for simple correct completition in a decent way.
