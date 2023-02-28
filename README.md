@@ -45,7 +45,7 @@ Note:
   - Environment: HandPainted Environment
   - Character BP, mesh and animation: from the official Unreal Learning Kit character
   - Grabbed UI from many places and tutorials
-
+- Default branch is the `final` branch, due to merging issues, a new branch is created and set as default to easily get the last updated fixes done while avoiding merge issues
 
 
 Done:
@@ -57,7 +57,7 @@ Stretch goal: -
 - Done for character health: Debug tools/ Cheat tools (l: +30 Health, k: -30 Health)
 
 
-Done with major bugs:
+Done with help in bugs:
 - Last 2 days Bugs fixes were in help of Toofan
 
 Not done (Stretch goal etc..)
