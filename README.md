@@ -10,7 +10,6 @@ Make a system where you can craft items based on other items
 ![00001](https://user-images.githubusercontent.com/20385915/221874210-7efab01d-77b0-476d-84b6-1a0d3c9e65d8.png)
 
 Requirements:
-Equip and Attack
 - Craft items based on other items
 - Crafting system works
 - Up to personal preference how you would make it view
