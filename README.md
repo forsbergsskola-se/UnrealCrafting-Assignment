@@ -12,12 +12,16 @@ Equip and Attack
 - Crafting system works
 - Up to personal preference how you would make it view
 Stretch goal: -
-
+- Done: Character health stats etc.
+- Done for character health: Debug tools/ Cheat tools (l: +30 Health, k: -30 Health)
+- Inventory drop and place
+- Building system (like survival games)
 
 ## Realisations:
 
 Loom video:
-<TBD>
+https://www.loom.com/share/e9745c4edc9e48fca6b4f4794d775d82
+
 
 
 
